@@ -1,0 +1,36 @@
+@font-face {
+  	font-family: 'DIN';
+  	src: url('DINWeb-Light.eot');
+  	src: url('DINWeb-Light.eot?#iefix') format('embedded-opentype'),
+       	url('DINWeb-Light.woff') format('woff'),
+    	url('DINWeb-Light.ttf')  format('truetype');
+
+   font-weight: 300;
+   font-style: normal;
+}
+
+@font-face {
+  	font-family: 'DIN';
+  	src: url('DINWeb.eot');
+  	src: url('DINWeb.eot?#iefix') format('embedded-opentype'),
+       	url('DINWeb.woff') format('woff'),
+    	url('DINWeb.ttf')  format('truetype');
+
+   font-weight: 400;
+   font-style: normal;
+}
+
+@font-face {
+  	font-family: 'DIN';
+  	src: url('DINWeb-Medium.eot');
+  	src: url('DINWeb-Medium.eot?#iefix') format('embedded-opentype'),
+       	url('DINWeb-Medium.woff') format('woff'),
+    	url('DINWeb-Medium.ttf')  format('truetype');
+
+   font-weight: 500;
+   font-style: normal;
+}
+
+body {
+	font-family: 'DIN', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
